@@ -1,0 +1,7 @@
+.close-btn:hover {
+    border: 1px solid;
+    cursor: pointer;
+}
+.close-btn, .confirm-btn, .deny-btn:focus {
+    color: red;
+  }
